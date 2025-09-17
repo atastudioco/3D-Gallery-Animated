@@ -101,7 +101,7 @@ body::before {
   inset: 0 0 0 0;
   content: attr(data-content);
   z-index: 2;
-  -webkit-text-stroke: 3px #eb4747;
+  -webkit-text-stroke: 3px #f83b3b;
   color: transparent;
 }
 .banner .content .author {
@@ -145,13 +145,13 @@ body::before {
   .banner .content h1 {
     text-align: center;
     width: 100%;
-    text-shadow: 0 10px 20px #000;
+    text-shadow: 0 5px 10px #0c013d;
     font-size: 7em;
   }
   .banner .content .author {
     color: #fff;
     padding: 20px;
-    text-shadow: 0 10px 20px #000;
+    text-shadow: 0 5px 20px #000;
     z-index: 2;
     max-width: unset;
     width: 100%;
