@@ -126,7 +126,7 @@ body::before {
 }
 
 #audio-iframe {
-  display: ;
+  display: none;
 }
 
 /* Media Responsive */
